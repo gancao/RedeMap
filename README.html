@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RedeImmunoMap</title>
+
+<body>
+
+    <div>
+                        
+        <h5 style="line-height: 1.5;font-size:16px;font-family: 'Arial'">
+            <span class="glyphicon glyphicon-leaf" aria-hidden="true" style="color:green;"></span>&nbsp;Estimate the distribution of any intersested cell states that express user-defined gene sets including positive or negative gene sets across various healthy or primary tumor tissues. The cell density of these cell states are accumulated in each sample. Paired comparisons of your intersested cell states between corresponding healthy and tumor tissues from GTEx and TCGA are also provided for analysis. We provide T-SNE and bar plots to visualize the distributions of your interested cell states. In the T-SNE plot, the estimated abundance are shown by continuous color scales for each sample. In addition, the bar plots show the orders of cell density of user-defined cell states in descending order across various tissues, genders and ages. Other details can be viewed in the paper.
+        </h5>
+
+        <!-- <p><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span> &nbsp;CD8A</p> -->
+        <h5 style="line-height: 1.5;margin-top: 20px;font-size:16px;font-family: 'Arial'">
+            <span class="glyphicon glyphicon-leaf" aria-hidden="true" style="color:green;"></span>&nbsp;Perform correlation analysis of your intersested cell state density with genders and ages. The radar plots show the distributions of cell states across various genders and ages for each tissue orderd as the bar plots. On the top of each radar plot, the p-value(s) are indicated by ANOVA analysis. For gender-related radar plots, two-way ANOVA is applied and labeled on top to assess the effects of age, gender, and their interaction on your intersested cell state density in each tissue.
+        </h5>
+        <!-- <p><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span> &nbsp;CD3E&CD8A</p> -->
+        <h5 style="line-height: 1.5;margin-top: 20px;font-size:16px;font-family: 'Arial'">
+            <span class="glyphicon glyphicon-leaf" aria-hidden="true" style="color:green;"></span>&nbsp;Perform correlation analysis of your intersested cell state density with Objective Response Rate (ORR) (%) provided by Yarchoan et al. (https://doi.org/10.1056/NEJMc1713444) across various tissues or cancer types. The scatter plot shows the association of immunotherapy response with the averaged cell density of your defined cell states across various tissues. Other details can be viewed in the paper.
+        </h5>
+
+        <h5 style="line-height: 1.5;margin-top: 20px;font-size:16px;font-family: 'Arial'">
+            <span class="glyphicon glyphicon-leaf" aria-hidden="true" style="color:green;"></span>&nbsp;Perform survival analysis of your intersested cell state density across various cancer types. P-value is labeled on top by log-rank test using R packages: "survival" and "survminer". We used median value as cutoff to divide samples into high and low groups for each cancer type.
+        </h5>
+
+        <h5 style="line-height: 1.5;margin-top: 20px;font-size:16px;font-family: 'Arial'">
+            <span class="glyphicon glyphicon-leaf" aria-hidden="true" style="color:green;"></span>&nbsp;Additionally, the web tool also provides similar analysis of investigating the gene expression distributions of user-defined gene sets across all bulk RNA-seq samples provided by GTEx and TCGA projects. Log2(TPM+1) is used for subsequent analysis.
+        </h5>
+
+        <p style="font-size:20px;">Citations:</p>
+        <p>......</p>
+    </div>
+
+</body>
+</html>
