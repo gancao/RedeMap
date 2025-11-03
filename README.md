@@ -3,8 +3,8 @@
 
 We provided a web program bulit by Django for visualizing the the distribution of any intersested cell states that express user-defined gene sets across various healthy or primary tumor tissues as well as other correlation analysis.
 We also provided windows and linux versions for all users.
-
-![RedeMap](https://github.com/gancao/RedeMap/blob/main/RedeMap.tif)
+![RedeMap](https://github.com/gancao/RedeMap/blob/main/Figure1.png)
+![RedeMap](https://github.com/gancao/RedeMap/blob/main/RedeMap.png)
 
 ## Download ##
     First, you should download the program files from the below wensite:
