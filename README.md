@@ -2,20 +2,19 @@
 
 
 We provided a web program bulit by Django for visualizing the the distribution of any intersested cell states that express user-defined gene sets across various healthy or primary tumor tissues as well as other correlation analysis.
-We provided windows and linux versions for this web tool.
+We also provided windows and linux versions for all users.
 
-![RedeMap](https://github.com/gancao/RedeMap/blob/main/RedeMap.png)
+![RedeMap](https://github.com/gancao/RedeMap/blob/main/RedeMap.tiff)
 
 ## Download ##
-    First, you should download the program files from the below wensites:
-
+    First, you should download the program files from the below wensite:
     https://zenodo.org/records/17509468
-
     Then, you should unzip the corresponding files in a directory. If you want to run RedeMap on a windows system, please use "RedeMap_win.zip". If you want to run RedeMap on a linux system, please use "RedeMap_linux.zip".
 
 ## Usage ##
 Before running RedeMap, the users should finish the following steps to use this web tool. <br>
-**step1: Install R4 and Python3 on your computer and save their paths in environment variables** <br>
+
+**step1: Install R4 and Python3 on your computer and save the installed paths into the environment variables** <br>
 
 **step2: Install required R and python packages** <br>
 
