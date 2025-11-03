@@ -9,9 +9,9 @@ We also provided windows and linux versions for all users.
 ![RedeMap](https://github.com/gancao/RedeMap/blob/main/RedeMap.png)
 
 ## Download ##
-    First, you should download the program files from the below wensite:
-    https://zenodo.org/records/17509468
-    Then, you should unzip the corresponding files in a directory. If you want to run RedeMap on a windows system, please use "RedeMap_win.zip". If you want to run RedeMap on a linux system, please use "RedeMap_linux.zip".
+First, you should download the program files from the below wensite:
+https://zenodo.org/records/17509468
+Then, you should unzip the corresponding files in a directory. If you want to run RedeMap on a windows system, please use "RedeMap_win.zip". If you want to run RedeMap on a linux system, please use "RedeMap_linux.zip".
 
 ## Usage ##
 Before running RedeMap, the users should finish the following steps to use this web tool. <br>
