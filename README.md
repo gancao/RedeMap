@@ -10,7 +10,7 @@ We also provided windows and linux versions for all users.
 
 ## Download ##
 First, you should download the program files from the below wensite:
-https://zenodo.org/records/17509468
+https://zenodo.org/records/17509468<br>
 Then, you should unzip the corresponding files in a directory. If you want to run RedeMap on a windows system, please use "RedeMap_win.zip". If you want to run RedeMap on a linux system, please use "RedeMap_linux.zip".
 
 ## Usage ##
