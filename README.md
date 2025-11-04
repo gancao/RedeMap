@@ -19,7 +19,7 @@ Before running RedeMap, the users should finish the following steps to use this 
 
 **step1: Install R4 and Python3 on your computer and save the installed paths into the environment variables** <br>
 
-**step2: Install required R and python packages by running the below codes in the command line** <br>
+**step2: Install required R and python packages by running the below commands in the command line** <br>
 
     #If you install RedeMap on a windows system, you could press the Windows key and R, then type cmd in the run box to open the Command Prompt
     pip install -r requirements.txt
