@@ -3,15 +3,16 @@
 ![RedeMap](https://github.com/gancao/RedeMap/blob/main/Figure1.png)
 
 ## Web ##
-We provided a web program bulit by Django for visualizing the the distribution of any intersested cell states that express user-defined gene sets across various healthy or primary tumor tissues as well as other correlation analysis.
-We also provided windows and linux versions for all users.
+We provide an in-house web program bulit by Django for visualizing the the distribution of any intersested cell states that express user-defined gene sets across various healthy or primary tumor tissues as well as other correlation analysis. We also provided windows and linux versions for all users.
 
 ![RedeMap](https://github.com/gancao/RedeMap/blob/main/RedeMap.png)
 
 ## Download ##
 First, you should download the program files from the below wensite:
 https://zenodo.org/records/17509468<br>
-Then, you should unzip the corresponding files in a directory. If you want to run RedeMap on a windows system, please use "RedeMap_win.zip". If you want to run RedeMap on a linux system, please use "RedeMap_linux.zip".
+Then, you should unzip the corresponding files in a directory. If you want to run RedeMap on a windows system, please use "RedeMap_win.zip". If you want to run RedeMap on a linux system, please use "RedeMap_linux.zip". After you unzip the files, the directory can be like this:
+
+![RedeMap](https://github.com/gancao/RedeMap/blob/main/Directory.png)
 
 ## Usage ##
 Before running RedeMap, the users should finish the following steps to use this web tool. <br>
