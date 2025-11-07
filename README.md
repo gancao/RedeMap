@@ -8,8 +8,8 @@ We provide an in-house web program bulit by Django for visualizing the the distr
 ![RedeMap](https://github.com/gancao/RedeMap/blob/main/RedeMap.png)
 
 ## Download ##
-First, you should download the program files from the zenodo wensite:
-https://zenodo.org/records/17509468<br>
+First, you should download the program files from the zenodo or figshare wensite:
+https://zenodo.org/records/17509468 and https://figshare.com/account/articles/30562559<br>
 Then, you should unzip the corresponding files in a directory. If you want to run RedeMap on a windows system, please use "RedeMap_win.zip". If you want to run RedeMap on a linux system, please use "RedeMap_linux.zip". After you unzip the files, the directory can be like this:
 
 ![RedeMap](https://github.com/gancao/RedeMap/blob/main/Directory.png)
